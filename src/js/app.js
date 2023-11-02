@@ -1,4 +1,4 @@
-import Validator from './Validator';
+import ErrorRepository from './ErrorRepository';
 
-const a = Validator();
+const a = ErrorRepository();
 console.log(a);
